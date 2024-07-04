@@ -1,0 +1,74 @@
+/* Place your CSS styles in this file */
+
+body {
+    background-color: rgb(180, 216, 182);
+  }
+  
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+figure {
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 40px;
+}  
+
+h1,h2 {
+font-family: 'Roboto' sans-serif;
+margin-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: normal;
+  color: rgb(227, 160, 78);
+  font-size: 250%;
+}
+
+h2 {
+  text-align: center;
+  font-weight: lighter;
+  color: rgb(172, 160, 71);
+  font-family: monospace;
+}
+
+h3 {
+  font-family: "Courier New";
+  font-weight: normal;
+  color: purple;
+  text-align: center;
+}
+
+footer {
+text-align: center;
+}
+
+.top-links {
+text-align: left;
+margin-left: 20px; /* Adjust as needed */
+margin-bottom: 10px; /* Optional spacing */
+}
+
+.top-links a {
+display: inline-block;
+padding: 10px 20px;
+background-color: rgb(194, 194, 194);
+color: rgba(99, 129, 48, 0.823);
+text-decoration: none;
+border-radius: 5px;
+font-weight: bold;
+}
+
+.explanation {
+text-align: center;
+margin: 40px 0;
+font-size: 1.2em;
+color: rgb(77, 77, 77);
+font-style: italic;
+}
+
+  
